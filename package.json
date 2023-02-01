@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "electron": "^22.0.2",
+    "puppeteer": "^19.5.2",
+    "request": "^2.88.2",
+    "selenium-webdriver": "^4.7.1",
+    "xlsx": "^0.18.5"
+  }
+}
